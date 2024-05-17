@@ -78,3 +78,6 @@ def play_game():
 
 if __name__ == "__main__":
     play_game()
+
+# Question: Should we limit the number of attempts for guessing letters as well, or is it okay to let players keep guessing letters indefinitely as long as they don't guess the whole word?
+
